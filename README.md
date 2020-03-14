@@ -1,2 +1,2 @@
 # Travel-webpage
-Учебный проект по созданию веб-страницы
+https://marinabuslaeva.github.io/Travel-webpage/
